@@ -9,23 +9,48 @@ shows graphs as per predict the diabetic risk level.
 
 **🎯 Key Features**
 
-📊 Accepts patient health inputs (such as glucose level, BMI, age, etc.)
+🧠 Machine Learning–based diabetes classification
 
-🤖 Uses a trained Machine Learning model for prediction
+📝 Patient data input through a web interface
 
-📈 Displays diabetes risk level (Low / Medium / High)
+📊 Displays diabetes risk probability (%)
 
-🔢 Shows probability percentage of diabetes
+📈 Multiple graphs for data analysis and model evaluation
 
-🌐 Web-based interface built using Flask
+🌐 Flask-based web application
 
-⚡ Fast and easy-to-use application
+🔐 Login & authentication interface
 
 **🛠️ Technologies Used**
 
 Programming Language: Python
+
 Web Framework: Flask
+
 Machine Learning: Random Forest
+
 Data Handling: Pandas, NumPy
+
 Frontend: HTML, CSS
+
+**Visualization**
+
+🔥 Correlation Heatmap
+
+✔ Confusion Matrix
+
+⚡ Feature Importance
+
+📊 Feature Importance
+
+🔵 Scatterplot Matrix
+
+
+
+
+
+
+
+
+
 Model Serialization: Pickle
