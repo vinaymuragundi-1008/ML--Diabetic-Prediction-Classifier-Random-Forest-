@@ -33,7 +33,9 @@ Data Handling: Pandas, NumPy
 
 Frontend: HTML, CSS
 
-**Visualization**
+Model Serialization: Pickle
+
+**📊 Visualization**
 
 🔥 Correlation Heatmap
 
@@ -53,4 +55,4 @@ Frontend: HTML, CSS
 
 
 
-Model Serialization: Pickle
+
