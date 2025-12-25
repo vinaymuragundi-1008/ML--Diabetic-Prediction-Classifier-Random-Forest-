@@ -7,6 +7,7 @@ The system predicts the risk level of diabetes based on patient health data and 
 This project helps in early detection of diabetes and demonstrates the practical use of ML models integrated with a web framework.
 shows graphs as per predict the diabetic risk level.
 
+
 **🎯 Key Features**
 
 🧠 Machine Learning–based diabetes classification
@@ -21,6 +22,7 @@ shows graphs as per predict the diabetic risk level.
 
 🔐 Login & authentication interface
 
+
 **🛠️ Technologies Used**
 
 Programming Language: Python
@@ -34,6 +36,7 @@ Data Handling: Pandas, NumPy
 Frontend: HTML, CSS
 
 Model Serialization: Pickle
+
 
 **📊 Visualization**
 
