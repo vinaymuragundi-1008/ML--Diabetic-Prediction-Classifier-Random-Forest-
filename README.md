@@ -10,10 +10,15 @@ shows graphs as per predict the diabetic risk level.
 **🎯 Key Features**
 
 📊 Accepts patient health inputs (such as glucose level, BMI, age, etc.)
+
 🤖 Uses a trained Machine Learning model for prediction
+
 📈 Displays diabetes risk level (Low / Medium / High)
+
 🔢 Shows probability percentage of diabetes
+
 🌐 Web-based interface built using Flask
+
 ⚡ Fast and easy-to-use application
 
 **🛠️ Technologies Used**
